@@ -1,7 +1,6 @@
 {
   "name": "solidity-todolist-app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,9 @@
     "react": "^18.2.0",
     "react-icons": "^4.11.0",
     "truffle": "^5.5.21"
-  }
+  },
+  "devDependencies": {
+    "mocha": "^9.2.2"
+  },
+  "description": ""
 }
